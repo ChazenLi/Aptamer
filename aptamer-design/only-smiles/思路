@@ -51,4 +51,5 @@ AGA GAC CCT GAC TGC GAA CTC AAC TCG CAA TGT CCA CCT CTA C TGG ACA CGG TGG CTT CT
 
 思路更新：采用后续的标准格式尽心处理，使得环的问题得以解决
 进展，已经实现了小于100个环的smiles格式输出；（无法超过100个环的原因是底层代码不支持；已经尝试过63个碱基的smiles格式无法由openbabel、rdkit转换）
-接下来需要实现：坐标化
+接下来需要实现：坐标化；
+但是仍然一直报错，分子数量一旦大，则继续报错。
