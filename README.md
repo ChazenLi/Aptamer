@@ -12,7 +12,7 @@ This repository is about the work that I'm trying to do to make aptamer selectio
 
 是一系列尝试生成aptamer的pdb、mol格式文件以方便后续高通量、虚拟筛选的尝试。
 
-## **3. 尝试使用linux异步调用实现Rosetta、pyrosetta、biopython的组合使用**   
+## **3. 尝试使用linux调用实现Rosetta、pyrosetta、biopython的组合使用**   
 在Linux系统中，分步调用不同的软件通常涉及到几个关键步骤：
 
   3.1 **安装软件**：首先确保你需要的软件已经安装在系统中。可以使用包管理器如`apt`、`yum`或`pacman`来安装软件。
