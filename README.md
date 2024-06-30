@@ -33,4 +33,6 @@ This repository is about the work that I'm trying to do to make aptamer selectio
 
 3.7 **错误处理**：在脚本中添加错误处理机制，以确保在调用过程中能够捕获并处理可能出现的错误。
 
+未完待续...
+
 
